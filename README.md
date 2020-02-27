@@ -274,7 +274,7 @@
                         Check out whats being built.
                     </p>
                     <p>
-                        <a class="btn btn-primary" href="/projects/">
+                        <a class="btn btn-primary" href="file:///Applications/MAMP/htdocs/DJPDesigns/vickers/site/projects/index.html">
                             See current work
                         </a>
                     </p>
@@ -288,7 +288,7 @@
                         See what we have to offer you.
                     </p>
                     <p>
-                        <a class="btn btn-primary" href="/services/" role="button">
+                        <a class="btn btn-primary" href="file:///Applications/MAMP/htdocs/DJPDesigns/vickers/site/services/index.html" role="button">
                             View our services
                         </a>
                     </p>
@@ -302,7 +302,7 @@
                         See what others have said about our services.
                     </p>
                     <p>
-                        <a class="btn btn-primary" href="/blog/" role="button">
+                        <a class="btn btn-primary" href="file:///Applications/MAMP/htdocs/DJPDesigns/vickers/site/blog/index.html" role="button">
                             Check the blog
                         </a>
                     </p>
@@ -345,8 +345,8 @@
                             <img class="img-rounded" src="images/instagram.png" height="32" width="32">
                         </a>
                     
-                        <a href="https://plus.google.com/u/0/101197128123199498238/posts" rel="publisher" target="_top" style="text-decoration:none;">
-                            <img src="//ssl.gstatic.com/images/icons/gplus-32.png" alt="Google+" style="border:0;width:32px;height:32px;">
+                        <a href="https://www.linkedin.com/in/michael-vickers-753ba2b8/" rel="publisher" target="_top" style="text-decoration:none;">
+                            <img src="images/LI-In-Bug.png" alt="LinkedIn" style="border:0;width:32px;height:32px;">
                         </a>               
                     </p>
                 </div><!-- /.col-md-12 -->
